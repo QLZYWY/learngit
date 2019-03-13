@@ -1,5 +1,3 @@
 Read this file before everything！
-
-
-
-buyaoshanchu!
+这是一个Readme文件。
+不要删除。
